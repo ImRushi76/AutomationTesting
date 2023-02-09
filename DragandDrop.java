@@ -46,7 +46,7 @@ public class DragAndDropAll
  	   
  	   a.dragAndDrop(accept, drop1).build().perform();
  	   
- 	   //****************** Prevent pro *****************************
+ 	   //****************** Prevent pro ***************************
  	   
  	   Thread.sleep(2000);
  	   
